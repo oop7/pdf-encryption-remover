@@ -6,13 +6,13 @@ This project provides a set of Python scripts for removing encryption from PDF f
 
 - PDF Creation Script: A script to generate password-protected PDFs for testing purposes.
 
-## Features
+## 💪 Features
 
 - Simple GUI: User-friendly interface for selecting and processing PDF files.
 - Password Removal: Removes encryption from PDFs without requiring a password.
 - Testing Script: Create encrypted PDFs for testing the remover tool.
 
-## Requirements
+## 📄 Requirements
 - `PyMuPDF`: For handling PDF files.
 - `tkinter`: For the graphical user interface (comes with Python standard library).
 
@@ -25,7 +25,7 @@ You can download the most recent version of tool [here](https://codeload.github.
   pip install -r requirements.txt
 ```
 
-## Usage
+## 💻 Usage
 
 ```bash
   python remove_pdf_encryptiont.py
