@@ -31,6 +31,8 @@ You can download the most recent version of tool [here](https://codeload.github.
   python remove_pdf_encryptiont.py
 ```
 
+## Disclaimer
 
+This tool is intended for legal and ethical use only. It must only be used on PDF files that you own or have explicit
 
   
